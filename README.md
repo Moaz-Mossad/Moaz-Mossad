@@ -11,7 +11,7 @@
 
 ## My Tech Stack
 
-<img src="https://skillicons.dev/icons?i=aws,linux,git,cpp,python,bash,html,css,javascript" />
 
+<img src="https://skillicons.dev/icons?i=aws,linux,git,cpp,python,bash,html,css,javascript,mysql" />
 
 
